@@ -1,6 +1,6 @@
 package miPrincipal;
 
-public class AppFactorial {
+public class AppAlfabeto {
     public static void menu(){
         System.out.println("Version Iterativa");
         int n=5;
